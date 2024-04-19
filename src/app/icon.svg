@@ -1,0 +1,33 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="901px"
+	 height="1021.29px" viewBox="0 0 901 1021.29" style="enable-background:new 0 0 901 1021.29;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:url(#SVGID_2_);stroke-width:27;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_3_);stroke:url(#SVGID_4_);stroke-width:27;stroke-miterlimit:10;}
+</style>
+<defs>
+</defs>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="178.1717" y1="84.9828" x2="663.4091" y2="925.4387">
+	<stop  offset="0" style="stop-color:#B56847"/>
+	<stop  offset="0.1668" style="stop-color:#AF6C4F"/>
+	<stop  offset="0.4294" style="stop-color:#9E7766"/>
+	<stop  offset="0.7531" style="stop-color:#82888A"/>
+	<stop  offset="1" style="stop-color:#6998AB"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="172.4192" y1="75.0192" x2="671.1566" y2="938.8577">
+	<stop  offset="0" style="stop-color:#B56847"/>
+	<stop  offset="0.1668" style="stop-color:#AF6C4F"/>
+	<stop  offset="0.4294" style="stop-color:#9E7766"/>
+	<stop  offset="0.7531" style="stop-color:#82888A"/>
+	<stop  offset="1" style="stop-color:#6998AB"/>
+</linearGradient>
+<path class="st0" d="M274.85,105.49c-9.56-8.73-18.08-68.43-5.33-70.65c73.39-12.78,442.07-43.26,490.14,4.81
+	c42.55,42.55-58.78,206.45-103.19,275.02c-7.1,10.96-13.43,26.07-0.42,24.98c39.68-3.32,106.34-0.06,157.48,47.14
+	c43.77,40.4,83.79,95.77,71.82,197.52c-4.98,42.32-20.79,152.24-99.35,238.66c-30.31,33.34-61.37,60.52-91.67,82.99
+	c-111.8,82.91-218.62,94.01-264.05,96.89c-11.35,0.72-19.62-10.59-15.62-21.24l6.8-18.15c1.86-4.97,6.06-8.65,11.23-9.82
+	c40.11-9.05,176.26-76.05,245-181.81c77.81-119.71,137.16-259.25,53.07-317.47c-33.87-20.62-91.27-31.05-133.16,10.85
+	c-36.48,36.48-215.57,372.4-259.57,468c-4.8,10.43-8.22,22.19,3.25,22.19h12.6c10.99,0,18.59,10.98,14.74,21.26l-6.67,17.78
+	c-2.06,5.5-6.99,9.41-12.83,10.1c-43.82,5.2-236.58,17.08-299.62-87.98C10.58,851.68,8.58,790.96,18.63,717.79
+	c7.55-54.99,27.02-99.39,92.1-181.07c29.95-37.6,36.47-7.09,38.43,11.69c2.88,27.59,1.28,74.01-20.52,148.39
+	c-42.39,144.62,5.33,194.19,96.5,148.6c59.85-29.93,84.43-119.3,163.08-284.66c83.55-175.66,189.33-360.15,216.15-425.55
+	c4.43-10.81,15.52-11.45,3.86-10.61C533.2,129.96,318.34,145.21,274.85,105.49z"/>
+</svg>
