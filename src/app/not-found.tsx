@@ -1,15 +1,17 @@
 import Link from "next/link";
 import Image from "next/image";
 import styles from "./not-found.module.css"; // For scoped CSS
-import { Button } from "@mui/material";
+import { Button, Typography } from "@mui/material";
 
 import astronaut from "../assets/astronaut.png";
 
 export default function NotFound() {
   return (
     <div className={styles.container}>
-      <h1>Whoops! Lost in Hyperspace?</h1>
-      <p>The page you requested could not be found.</p>
+      <Typography variant="h3" gutterBottom>Whoops! Lost in Hyperspace?</Typography>
+      <Typography variant="body1">
+        The page you requested could not be found.
+      </Typography>
       <div className={styles.astronaut}>
         <div className={styles.helmet}>
           <Image src={astronaut} alt="Astronaut" className={styles.image} />
